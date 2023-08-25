@@ -1,4 +1,4 @@
-![logo](https://github.com/SSCoderin/SSCoderin/blob/main/sscoderin%20(1).png)
+![logo](https://github.com/SSCoderin/SSCoderin/blob/main/Screenshot%202023-08-25%20151954.png)
 <h1 align="center">Hi 👋, I'm SHIVKIRAN SANTOSH CHITKULWAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
