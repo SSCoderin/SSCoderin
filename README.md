@@ -43,16 +43,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=ffffff&center=true&width=800&lines=⭐+Thanks+for+visiting!+Don't+forget+to+star+some+repositories;🚀+Let's+innovate+and+build+the+future+together!;💡+Dream+%7C+Code+%7C+Deploy+%7C+Repeat;🌟+Happy+Coding+and+Keep+Building!" alt="Footer Animation" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="40">
-</div>447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Professional Experience
 
