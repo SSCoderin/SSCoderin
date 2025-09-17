@@ -39,9 +39,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=ffffff&center=true&width=800&lines=⭐+Thanks+for+visiting!+Don't+forget+to+star+some+repositories;🚀+Let's+innovate+and+build+the+future+together!;💡+Dream+%7C+Code+%7C+Deploy+%7C+Repeat;🌟+Happy+Coding+and+Keep+Building!" alt="Footer Animation" />
-</div>
+
 
 
 
