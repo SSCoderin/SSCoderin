@@ -25,40 +25,7 @@
 
 <img align="right" alt="Coding Animation" width="420" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Quick Stats
-- 🔭 **Currently Building:** Eye-tracking applications with WebGazer.js
-- 🌱 **Learning:** Advanced AI/ML, Cloud Technologies, Computer Vision
-- 👯 **Open to:** Collaboration on Open Source & AI Projects
-- 💬 **Ask me about:** React, Next.js, Python, AI/ML, Full Stack Development
-- 📫 **Reach me:** [shivkiranchitkulwar123@gmail.com](mailto:shivkiranchitkulwar123@gmail.com)
-- ⚡ **Fun fact:** Built a government app with 21,000+ users! 🏆
 
-<br clear="both"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="35"> Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF1493&center=true&width=800&lines=🌟+Let's+Build+Something+Amazing!;🤝+Open+to+Collaboration+%26+Opportunities;💡+Always+Ready+for+New+Challenges;🚀+Turning+Ideas+Into+Reality;📧+Reach+Out+for+Projects+%26+Partnerships" alt="Connect Animation" />
-</div>
-
-<br>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/shivkiran-chitkulwar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/sscoderin)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shivkiranchitkulwar123@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/c/sscoderin)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000)](https://www.codechef.com/users/shivkiran_chitkulwar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/shivkiran_chitkulwar)
-
-</div>
 
 <br>
 
